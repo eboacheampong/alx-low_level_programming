@@ -2,7 +2,9 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * Return: Should always return 0 then success
+ * main - Entry point
+ *
+ * Return: Always 0 (Successs/correct)
  */
 int main(void)
 {

@@ -2,8 +2,9 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * headers above
- * Return: Always 0 then (Success)
+ * main - Entry point
+ *
+ * Return: Always 0 (Successs/correct)
  */
 int main(void)
 {

@@ -1,10 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+
 /**
- *headers are placed above
+ * main - Entry point
  *
- * Return: Always 0 (Success)
+ * Return: Always 0 (Successs/correct)
  */
 int main(void)
 {
